@@ -1,5 +1,10 @@
 # One-Liner Laugh Lab — make.fun entry
 
+[![make.fun · u-suroso-69-one-liner-laugh-lab-6ccf3aae](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-liner-laugh-lab-6ccf3aae)
+[![rank](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae/zonawallets-cell/one-liner-laugh-lab-makefun/rank.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-liner-laugh-lab-6ccf3aae)
+[![reward](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae/zonawallets-cell/one-liner-laugh-lab-makefun/reward.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-liner-laugh-lab-6ccf3aae)
+
+
 [![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3-stdlib only-green)](main.py)
